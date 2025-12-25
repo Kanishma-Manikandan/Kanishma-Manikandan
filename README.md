@@ -1,16 +1,93 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Kanishma!+%F0%9F%91%8B;Computer+Science+Student;Front-end+Engineer;Applied+ML+Enthusiast" alt="Typing SVG" />
+</div>
 
-<!--
-**Kanishma-Manikandan/Kanishma-Manikandan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanishmamanikan361@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanishma-manikandan) 
+  <!-- Note: LinkedIn URL assumed based on standard pattern or user can update -->
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> About Me
+
+I am a **Computer Science student** building the bridge between **Front-end Engineering** and **Applied Machine Learning**. My focus is on engineering structured, end-to-end systems with production-grade reliability rather than isolated prototypes. 👩‍💻
+
+My technical portfolio includes **ADAE**, an AI-driven platform for scalable content management using **Flask** and **MongoDB**; **SpeakSpace**, a real-time system for intelligent speech processing; and a modular **JARVIS-style assistant** exploring **NLU** and system orchestration. I also engineer responsive interfaces with **React** and data-driven tools in **Python**, prioritizing clean architecture and maintainability. ⚙️
+
+Currently, I am refining the integration of intelligent backend services with performant, user-centric front-ends. 🚀
+
+---
+
+### 🛠️ My Arsenal
+
+#### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+#### Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</p>
+
+#### Tools & Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **ADAE** <br> *(AI Domain Assistant Environment)* | An AI-driven learning platform designed for scalable content and user management. | ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask) ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb) |
+| **SpeakSpace** | A real-time voice-based system designed for reliable speech processing and intelligent responses. | ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python) ![AI](https://img.shields.io/badge/AI-orange?style=flat-square) |
+| **JARVIS Assistant** | A personal assistant exploring natural language understanding, task automation, and modular service design. | ![NLP](https://img.shields.io/badge/NLP-purple?style=flat-square) ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python) |
+
+---
+
+### 🏆 Coding Profiles
+
+<p align="left">
+  <a href="https://leetcode.com/u/__0702Kanishma__/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/kanishmamanikan2">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://www.codecademy.com/profiles/dev0857354364">
+    <img src="https://img.shields.io/badge/Codecademy-FFF056?style=for-the-badge&logo=codecademy&logoColor=1F2435" alt="Codecademy" />
+  </a>
+  <a href="https://www.codedex.io/@kanishma">
+    <img src="https://img.shields.io/badge/Codédex-1F2435?style=for-the-badge&logo=codepen&logoColor=white" alt="Codedex" /> 
+    <!-- Note: Using CodePen logo as fallback for Codedex if specific logo unavailable on simpleicons -->
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kanishma-Manikandan&show_icons=true&theme=radical&hide_border=true" alt="Kanishma's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanishma-Manikandan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kanishma-Manikandan&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
