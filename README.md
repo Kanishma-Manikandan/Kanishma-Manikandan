@@ -41,6 +41,7 @@ Currently, I am refining the integration of intelligent backend services with pe
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
@@ -90,7 +91,6 @@ Currently, I am refining the integration of intelligent backend services with pe
   </a>
   <a href="https://www.codedex.io/@kanishma">
     <img src="https://img.shields.io/badge/Codédex-1F2435?style=for-the-badge&logo=codepen&logoColor=white" alt="Codedex" /> 
-    <!-- Note: Using CodePen logo as fallback for Codedex if specific logo unavailable on simpleicons -->
   </a>
 </p>
 
@@ -99,11 +99,11 @@ Currently, I am refining the integration of intelligent backend services with pe
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kanishma-Manikandan&show_icons=true&theme=radical&hide_border=true" alt="Kanishma's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanishma-Manikandan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kanishma-Manikandan&show_icons=true&theme=tokyonight&hide_border=false" alt="Kanishma's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanishma-Manikandan&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kanishma-Manikandan&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kanishma-Manikandan&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <br>
