@@ -7,7 +7,7 @@
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=750&lines=Hi+There!+%F0%9F%91%8B+I'm+Kanishma+Manikandan;🤖+AI+Engineer+%7C+NLP+%7C+Computer+Vision;🦙+Fine-tuning+LLaMA+with+LoRA;⚡+From+Idea+to+Intelligent+System+—+Fast;🌐+Open+to+AI+%2F+ML+Collaborations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=10&size=7&duration=4&pause=2&color=A855F7&center=true&vCenter=true&width=750&lines=Hi+There!+%F0%9F%91%8B+I'm+Kanishma+Manikandan;🤖+AI+Engineer+%7C+NLP+%7C+Computer+Vision;🦙+Fine-tuning+LLaMA+with+LoRA;⚡+From+Idea+to+Intelligent+System+—+Fast;🌐+Open+to+AI+%2F+ML+Collaborations" alt="Typing SVG" />
 </div>
 
 <br/>
