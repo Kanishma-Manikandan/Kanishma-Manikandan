@@ -1,7 +1,7 @@
 <!-- KANISHMA MANIKANDAN — GitHub Profile README -->
 
 <div align="center">
-  <img src="./github_pixel_banner.png" width="100%" alt="Pixel Coder Workspace Banner" />
+  <img src="./github_lofi_banner.png" width="100%" alt="Lofi Cozy Workspace Banner" />
 </div>
 
 <br />
